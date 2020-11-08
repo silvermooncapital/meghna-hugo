@@ -1,4 +1,4 @@
-baseURL = "https://silvermooncapital.netlify.com"
+baseURL = "https://silvermooncapital.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
