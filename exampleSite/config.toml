@@ -1,10 +1,10 @@
 baseURL = "https://silvermooncapital.netlify.app"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Meghna"
+title = "Silver Moon Capital"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
