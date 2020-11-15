@@ -7,8 +7,8 @@ theme = "meghna-hugo"
 title = "Silver Moon Capital"
 [Languages.en]
 contentDir = "content/english"
-copyright = """Copyright &copy; 2020 Silver Moon Capital, LLC\n
-    Theme Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"""
+copyright = """Copyright &copy; 2020 Silver Moon Capital, LLC  
+    (Theme Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com))"""
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -36,8 +36,8 @@ pre = "#"
 url = "about"
 weight = 1
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = "Silver Moon Capital, LLC"
+description = "Residential and Commercial Real Estate Investment"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
@@ -77,21 +77,21 @@ link = "plugins/google-map/map.js"
 [params.preloader]
 enable = false
 preloader = "images/logo.png"
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-youtube"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-dribbble"
-link = "#"
-[[params.social]]
-icon = "ti-pinterest"
-link = "#"
+# [[params.social]]
+# icon = "ti-facebook"
+# link = "#"
+# [[params.social]]
+# icon = "ti-twitter-alt"
+# link = "#"
+# [[params.social]]
+# icon = "ti-youtube"
+# link = "#"
+# [[params.social]]
+# icon = "ti-linkedin"
+# link = "#"
+# [[params.social]]
+# icon = "ti-dribbble"
+# link = "#"
+# [[params.social]]
+# icon = "ti-pinterest"
+# link = "#"
