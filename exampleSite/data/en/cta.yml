@@ -1,11 +1,15 @@
 ############################# call to action ##############################
 cta:
-  enable : false
+  enable : true
   bg_image : "images/backgrounds/jordan-steranka-ncf6mvpw644-unsplash.jpg"
   bg_image_webp : "images/backgrounds/jordan-steranka-ncf6mvpw644-unsplash.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  title : Reach Out to Us
+  content : >
+    We are always interested in connecting with the real estate investment community.
+    If you would like to find out more about us, or if you have a residential or
+    commercial real estate deal you'd like to pitch -- or for which you'd like a partner
+    -- please reach out to us.
   button:
     enable : true
-    label : "Start a project with us"
+    label : "Let's Partner"
     link : "#contact"
