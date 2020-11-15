@@ -1,8 +1,8 @@
 ############################# call to action ##############################
 cta:
   enable : true
-  bg_image : "images/backgrounds/jordan-steranka-ncf6mvpw644-unsplash.jpg"
-  bg_image_webp : "images/backgrounds/jordan-steranka-ncf6mvpw644-unsplash.webp"
+  bg_image : "images/backgrounds/benjamin-child-6msS8vT5pzw-unsplash-cropped.jpg"
+  bg_image_webp : "images/backgrounds/benjamin-child-6msS8vT5pzw-unsplash-cropped.webp"
   title : Reach Out to Us
   content : >
     We are always interested in connecting with the real estate investment community.
