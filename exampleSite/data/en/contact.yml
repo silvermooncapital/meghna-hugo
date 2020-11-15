@@ -3,7 +3,11 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content : >
+    We are always interested in connecting with the real estate investment community.
+    If you would like to find out more about us, or if you have a residential or
+    commercial real estate deal you'd like to pitch -- or for which you'd like a partner
+    -- please reach out to us.
 
   # Contact details
   contact_list:
