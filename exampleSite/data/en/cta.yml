@@ -1,6 +1,6 @@
 ############################# call to action ##############################
 cta:
-  enable : true
+  enable : false
   bg_image : "images/backgrounds/jordan-steranka-ncf6mvpw644-unsplash.jpg"
   bg_image_webp : "images/backgrounds/jordan-steranka-ncf6mvpw644-unsplash.webp"
   title : "Great Design & Incredible Features"
