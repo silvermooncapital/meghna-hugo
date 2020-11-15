@@ -25,11 +25,11 @@ name = "contact"
 pre = "#"
 url = "contact"
 weight = 3
-[[menu.main]]
-name = "blog"
-pre = "#"
-url = "blog"
-weight = 2
+# [[menu.main]]
+# name = "blog"
+# pre = "#"
+# url = "blog"
+# weight = 2
 [[menu.main]]
 name = "about"
 pre = "#"
